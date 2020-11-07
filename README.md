@@ -1,1 +1,1 @@
-![Test Image 1](https://www.google.com/search?q=hand+game+sign&rlz=1C1GCEU_enUS873US873&sxsrf=ALeKk03q1OLaBrTt1FDkVDzK28KmVeOmAw:1604782345821&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjq8aeNqPHsAhWGbc0KHcUHDD0Q_AUoAXoECAsQAw&cshid=1604782528513991&biw=1280&bih=881#imgrc=Ox0X0aQ00WZYnM)
+![Alt desc](https://www.google.com/search?q=hand+game+sign&rlz=1C1GCEU_enUS873US873&sxsrf=ALeKk03q1OLaBrTt1FDkVDzK28KmVeOmAw:1604782345821&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjq8aeNqPHsAhWGbc0KHcUHDD0Q_AUoAXoECAsQAw&cshid=1604782581838557&biw=1280&bih=881#imgrc=Ox0X0aQ00WZYnM)
