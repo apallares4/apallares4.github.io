@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/apallares4/my-crib.git
 git push -u origin main
                 
+$ dig trentyang.com +noall +answer
