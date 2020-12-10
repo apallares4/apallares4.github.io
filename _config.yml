@@ -1,3 +1,4 @@
 name: angel's crib
 title: null
 exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile']
+exclude: ["CNAME", "Rakefile", "MIT-LICENSE", "README.md", "TODO.taskpaper"]
