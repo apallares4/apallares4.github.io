@@ -168,9 +168,6 @@ input, select, textarea {
 	  padding-left:3px;
 	  padding-bottom:10px;
 	}
-	img {
-	  border-style: none;
-	}
 	#hero {
 	  background-image: url("images/selfie.jpg");
 	  background-repeat: no-repeat;
