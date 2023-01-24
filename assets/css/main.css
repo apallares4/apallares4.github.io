@@ -151,28 +151,28 @@ input, select, textarea {
 		}
 
 	footer {
-		margin: 2em 0 0 0;
+		margin: 0 0 2em 0;
 	}
+		footer > p {
+			width:400px;
+			padding-top:5px;
+			border-style:clear;
+			border-color:#336699;
+			border-width:1px;
+			padding-left:3px;
+			padding-bottom:10px;
+			justify-content: center;
+			align-self: center;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: center;		
+		}
 
 	strong, b {
 		font-weight: 300;
 		color: #666;
 	}
 
-	.corndog {
-	  width:400px;
-	  padding-top:5px;
-	  border-style:clear;
-	  border-color:#336699;
-	  border-width:1px;
-	  padding-left:3px;
-	  padding-bottom:10px;
-	  justify-content: center;
-	  align-self: center;
-	  margin-left: auto;
-	  margin-right: auto;
-	  text-align: center;
-	}
 	#hero {
 	  background-image: url("images/selfie.jpg");
 	  background-repeat: no-repeat;
